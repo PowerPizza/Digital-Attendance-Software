@@ -1,0 +1,7 @@
+build
+dist
+main.spec
+.idea
+__pycache__
+my_env
+test
